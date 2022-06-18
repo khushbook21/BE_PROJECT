@@ -1,0 +1,25 @@
+import dieinfo
+ 
+ather=dieinfo.sympt.atherosclerosis(1)
+pul=dieinfo.sympt.pulmonaryfibrosis(1)
+cov=dieinfo.sympt.covid(1)
+liv=dieinfo.sympt.liverdisorders(1)
+panc=dieinfo.sympt.pancreatic(1)
+blo=dieinfo.sympt.bloodcancer(1)
+thy=dieinfo.sympt.thyroid(1)
+
+
+print("--------------1----------")
+print(ather)
+print("--------------2----------")
+print(pul)
+print("--------------3----------")
+print(cov)
+print("--------------4----------")
+print(liv)
+print("--------------5----------")
+print(panc)
+print("--------------6----------")
+print(blo)
+print("--------------7----------")
+print(thy)

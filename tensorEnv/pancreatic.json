@@ -1,0 +1,13 @@
+{
+  "pancreatic": [
+    {
+      "food to eat":["To get your pancreas healthy, focus on foods that are rich in protein, low in animal fats, and contain antioxidants.\n Try lean meats, beans and lentils, clear soups, and dairy alternatives (such as flax milk and almond milk)."],
+      "food to not eat":["Foods to not include:\n red meatorgan meatsfried foods,fries and potato, chipsmayonnaise, margarine and butter, full-fat dairy, pastries and desserts with added sugars, beverages with added sugars"],
+      "general tips":["If you're recovering from acute or chronic pancreatitis, avoid drinking alcohol. If you smoke, you'll also need to quit. Focus on eating a low-fat diet that won't tax or inflame your pancreas. You should also stay hydrated"],
+      "fruitsnot":["not"],
+      "vegnot":["not"],
+      "nonvegnot":["not"]
+
+    }
+  ]
+}

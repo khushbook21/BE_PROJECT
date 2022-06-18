@@ -1,0 +1,13 @@
+{
+  "liver": [
+    {
+      "food to eat": ["Coffee. Coffee is one of the best beverages you can drink to promote liver health. ...\nTea,Grapefruit,Blueberries and cranberries,Grapes,Prickly pear,Beetroot juice,Cruciferous vegetables,\n fruits:-apple,papaya,grapes,watermelon,banana,oranges"],
+      "food to not eat":["fruit not to eat  :-raisins, dry fruits. vegetables not to eat :- Brussels sprouts, cabbage, cauliflower, kale, turnips, and bok choy,\n nonveg not to eat :- lamb, beef, chicken"],
+      "general tips":["A diet high in animal protein may increase the risk of a disease which causes fat build-up in the liver,\n a condition that can lead to cardiovascular diseases or cancer, scientists warn.\n The findings also showed that foods containing fructose, such as soda and sugar, may not be as harmful as though"],
+      "fruitsnot":["raisins dry fruits Consuming large amounts of fructose-rich fruits like raisins, dry fruits can result in inflammation and fatty liver. This is because the sugar present in fruits, known as fructose, can cause abnormal amounts of fat in the blood when consumed in large amounts"],
+      "vegnot":["you can eat any fresh vegetable"],
+      "nonvegnot":["Saturated fats: Processed and packaged foods are likely to contain high amounts of saturated fats that can worsen fatty liver. Red meats are also high in saturated fats and should be avoided by people with fatty liver. Lean meats like chicken, fish, tofu, etc should be the preferred options for them"]
+
+    }
+  ]
+}

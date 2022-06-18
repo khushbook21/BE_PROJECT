@@ -1,0 +1,13 @@
+{
+  "atherosclerosis": [
+    {
+      "food to eat": [" A heart-healthy diet includes fruits, vegetables, whole grains, fish, lean meats and poultry, low-fat dairy products, nuts, seeds, and legumes (dried beans and peas)"],
+      "food to not eat":["Butter,Margarine,Dalda,Fried foods,Processed meats,Organ meat cuts,Non-dairy creamers, Junk foods like cookies, chips, pies, pastries and ice creams, High-sodium foods to avoid include:- Table salt,Mayonnaise and ketchup,Pickles,Processed and preserved foods. non veg strictly avoided"],
+      "general tips":["Eat a Heart-Healthy Diet. Your diet is an especially important factor in your risk for atherosclerosis,and heart disease generally.Fruits Fresh or frozen fruits, as well as those canned or preserved in juice or water, are good choices. Avoid fruits canned in heavy sugar-based syrup, and frozen fruits with sugar added.It's important, though, to limit vegetables in creamy sauces, high-sodium canned vegetables, and those that are fried or breaded.It also limits sodium, saturated and trans fats, refined carbohydrates, and alcohol. (1)The following food groups and items form the basis of a heart-healthy diet:Vegetables Good choices include fresh and frozen varieties of almost any vegetable, with special attention to getting a variety of colors and textures.It’s important, though, to limit vegetables in creamy sauces, high-sodium canned vegetables, and those that are fried or breaded.Fruits Fresh or frozen fruits, as well as those canned or preserved in juice or water, are good choices.Avoid fruits canned in heavy sugar-based syrup, and frozen fruits with sugar added."],
+      "fruitsnot":["you can eat any fresh fruit "],
+      "vegnot":["you can eat any fresh vegetable"],
+      "nonvegnot":["you need to avoid to eat nonveg strictly"]
+      
+    }
+  ]
+}

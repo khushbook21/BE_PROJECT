@@ -1,0 +1,275 @@
+{
+  "symptoms": [
+
+
+    {
+      "feelingweaker":
+      [
+        {
+          "name": "feelingweaker",
+          "vitamins_and_minerals": ["vitmain B12"],
+          "fruits": ["Banana 1 to 2", "apple"],
+          "veg": ["leaf green", "beans"],
+          "non_veg": ["eggs"],
+          "others": ["coffiy", "green tea", " Dark chockolate"],
+          "common": ["breakfast", "drink a cup of water"]}
+      ]
+    },
+
+
+
+    {
+      "lethary": [
+        {
+          "name": "letharay",
+          "vitamins_and_minerals": [
+            "vitmain B12",
+            "vitmain B6",
+            "vitmain B3"
+          ],
+
+          "fruits": [
+            "avocodas",
+            "Banana 1 to 2",
+            "peanuts",
+            "Oranges",
+            "Strawberries"
+          ],
+          "veg": [
+            "potatoes",
+            "green peas",
+            "beans",
+            "mushrooms",
+            "ginger",
+            "green peas",
+            "sweet paper"
+          ],
+          "non_veg": [
+            "eggs",
+            "chicken",
+            "pork",
+            "beef"
+          ],
+          "others": [
+            "coffee",
+            "green tea",
+            " Dark chocolate",
+            "wholegrain",
+            "Yogurt"
+          ],
+          "common": [
+            "all",
+            "drink a cup of water"
+          ]
+        }
+      ]
+    },
+
+
+
+    {
+      "headache": [
+        {
+          "name": "headache",
+          "vitamins_and_minerals": [
+            "Magnesium",
+            "patasium",
+            "vitmain B",
+            "fiber"
+          ],
+          "fruits": [
+            "berries",
+            "Banana 1 to 2",
+            "watermelon",
+            "broccoli"
+          ],
+          "veg": [
+            "seeds and nuts",
+            "mushrooms"
+          ],
+          "non_veg": ["not"],
+          "others": [
+            "coffee",
+            "herbal tea",
+            " Dark chockolate",
+            "Yogurt"
+          ],
+          "common": [
+            "snack",
+            " lemon juice"
+          ]
+        }
+      ]
+    },
+
+
+    {
+      "wound healing": [
+        {
+          "name": "wound healing",
+          "vitamins_and_minerals": [
+            "ascorbic acid",
+            "vitmain k",
+            "calcium",
+            "vitmain B12",
+            "factly acid",
+            "Prothrombin",
+            "Osteocalcin"
+          ],
+
+          "fruits": [
+            "Kiwi",
+            "Prunes",
+            "blue/Black berries",
+            "Pomegranate",
+            "mango",
+            "papaya",
+            "pineapple"
+          ],
+          "veg": [
+            "cauliflower",
+            "cucumber",
+            "carrot",
+            "broccoli"
+          ],
+          "non_veg": [
+            "beef",
+            "egg"
+          ],
+          "others":["not"],
+          "common": [
+            "all"
+          ]
+        }
+      ]
+    },
+
+
+
+
+
+    {
+      "reduced appetite": [
+        {
+          "name": "reduced appetite",
+          "vitamins_and_minerals": [
+            "vitmain B",
+            "vitmain C",
+            "omega-3"
+          ],
+          "fruits": [
+            "apples",
+            "Banana 1 to 2",
+            "oranges"
+          ],
+          "veg": [
+            "tomato",
+            "cucumber"
+          ],
+          "non_veg": [
+            "fish meet",
+            "chicken",
+            "eggs"
+          ],
+          "others": [
+            "whole gain",
+            "nut butter"
+          ],
+          "common": [
+            "snack",
+            "popcorn"
+          ]
+        }
+      ]
+    },
+
+
+
+
+    {
+      "Decrease in concentration level": [
+        {
+          "name": "Decrease in concentration level",
+          "vitamins_and_minerals": [
+            "protein",
+            "omega-3",
+            "vitmain B6"
+          ],
+          "fruits": [
+            "apple",
+            "Blueberries",
+            "Nuts"
+          ],
+          "veg": [
+            "Leafy green",
+            "Pumpkin seeds",
+            "Tomatoes",
+            "carrote",
+            "potatoes",
+            "sweet potatoes"
+          ],
+          "non_veg": [
+            "salmon",
+            "egg",
+            "fattyfish"
+          ],
+          "others": [
+            "green tea",
+            "coffee",
+            "milk",
+            "Dark chocolate"
+          ],
+          "common": [
+            "snack",
+            "drink a cup of water"
+          ]
+        }
+      ]
+    },
+
+
+
+    {
+      "body pain": [
+        {
+          "name": "body pain",
+          "vitamins_and_minerals": ["Vitamin D"],
+          "fruits": [
+            "orange",
+            "Banana 1 to 2",
+            "Blueberries"
+          ],
+          "veg": [
+            "tomato",
+            "tuemeric",
+            "mushrooms"
+          ],
+          "non_veg": [
+            "salmon",
+            "red meat.",
+            "oily fish ",
+            "Beef liver",
+            "egg yolks"
+          ],
+          "others": [
+            "green tea",
+            "coffee",
+            "milk",
+            "Dark chocolate",
+            "tuemeric",
+            "Chili Peppers",
+            "orange juice"
+          ],
+          "common": [
+            "snack"
+          ]
+        }
+      ]
+    }
+
+
+
+  ]
+}
+
+

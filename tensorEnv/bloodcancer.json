@@ -1,0 +1,13 @@
+{
+    "bloodcancer": [
+      {
+        "food to eat": ["Variety of fruits and vegetables Whole grainsFat free or low fat dairy Low fat proteins such as poultry or lean meat Healthy oils like olive oil. Examples of high-protein foods are beans, legumes, nuts, seeds, milk and milk products, eggs (well cooked), meats, poultry, and fish."],
+        "food to not eat":["foods high in fiber or sugar.greasy, fatty, or fried food,very hot or very cold food, milk products, alcohol,spicy foods, caffeine,apple juice. citrus fruits may irritate mouth sores and worsen the feeling of dry mouth.Raw meat or fish.Runny eggs.Unpasteurized drinks.Sushi Unwashed fruits and vegetables."],
+        "general tips":["For everyone either the patients or the person who has the risk factor of blood cancer), it is suggested to have a balanced diet and include nutrient-rich fruits and vegetables, and low-fat proteins, such as fish, lean meats and poultry.Maintaining the body weight Drinking a lot of water, Daily physical activities, Avoiding tobacco completely"],
+        "fruitsnot":["apples", "apricots","pears"],
+        "vegnot":["garlic", "berries", "broccoli", "leafy vegetables"],
+        "nonvegnot":["beef"]
+  
+      }
+    ]
+  }

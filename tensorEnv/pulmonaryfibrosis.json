@@ -1,0 +1,13 @@
+{
+  "pulmonaryfibrosis": [
+    {
+      "food to eat": ["Eggs: whole eggs are best, as much of their iodine and selenium are found in the yolk, while the whites are full of protein\nMeat: all meats, including lamb, beef, chicken, etc.\nFish: all seafood, including salmon, tuna, halibut, shrimp, etc.\nVegetables: all vegetables — cruciferous vegetables are fine to eat in moderate amounts, especially when cooked\nFruits: all other fruits, including berries, bananas, oranges, tomatoes, etc.\nGluten-free grains and seeds: rice, buckwheat, quinoa, chia seeds, and flax seeds\nDairy: all dairy products, including milk, cheese, yogurt, etc.\nBeverages: water and other non-caffeinated beverages"],
+      "food to not eat":["fruit not to eat  :- peaches, pears, and strawberries.\n vegetables not to eat :- Brussels sprouts, cabbage, cauliflower, kale, turnips, and bok choy,\n nonveg not to eat :- lamb, beef, chicken"],
+      "general tips":["Take an adequate amount of sleep and avoid stress as they lead to overeating and unhealthy food choices.\n -Limit your intake of processed food and drink lots of water. -It is important to consume iodine when trying to lose weight,\n but restrict processed salt intake and opt for natural sources of iodine."],
+      "fruitsnot":["peaches", "pears","strawberries"],
+      "vegnot":["Brussels sprouts","cabbage","cauliflower","kale","bok choy"],
+      "nonvegnot":["lamb" ,"beef", "chicken"]
+
+    }
+  ]
+}

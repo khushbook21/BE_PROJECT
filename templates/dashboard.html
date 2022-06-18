@@ -1,0 +1,226 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width,initial-scale=1">
+    <link rel="stylesheet" href="https://pro.fontawesome.com/releases/v5.10.0/css/all.css"
+        integrity="sha384-AYmEC3Yw5cVb3ZcuHtOA93w35dYTsvhLPVnYs9eStHfGJvOvKxVfELGroGkvsg+p" crossorigin="anonymous" />
+    
+    <!--adding nav-->
+    <!--<title> Website with Customize Color Theme | CodingLab </title>-->
+    <link rel="stylesheet" href="static/css/dashstyle2.css">
+    <!-- Fontawesome CDN Link -->
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.15.4/css/all.min.css" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+
+     
+
+    <link href="static/css/dashstyle.css" rel="stylesheet">
+    <style>
+        .button {
+            background-color: #4CAF50;
+            border: none;
+            color: white;
+            padding: 15px 32px;
+            text-align: center;
+            text-decoration: none;
+            display: inline-block;
+            font-size: 16px;
+            margin: 4px 2px;
+            cursor: pointer;
+          }
+        
+      </style>
+    <title>Dashboard</title>
+</head>
+
+<body>
+
+    <div class="container">
+        <div class="topbar">
+            <div class="logo">
+                <h2>HI {{userval}}  </h2>
+            </div>
+            <!-- <div class="search">
+                <input type="text" name="search" placeholder="search here">
+                <label for="search"><i class="fas fa-search"></i></label>
+            </div> -->
+            <!-- <i class="fas fa-bell"></i> -->
+            <h2>it shows the resent result / died paln </h2>
+            <div class="user">
+                <!---<img src="img/doctor1.png" alt="">-->
+            </div>
+        </div>
+        <div class="sidebar">
+            <ul>
+                <li>
+                    <a href="#">
+                        <i class="fas fa-th-large"></i>
+                        <div>Dashboard</div>
+                    </a>
+                </li>
+                <li>
+                    <a href="{% url 'indexaflogin' %}">
+                        <!--<i class="fas fa-solid fa-egg-fried"></i>-->
+                        <i class="fas fa-solid fa-cookie"></i>
+                        <div>Home</div>
+                    </a>
+                </li>
+                <li>
+                    <a href="#">
+                        <i class="fas fa-solid fa-cookie"></i>
+                        <div>Breakfast</div>
+                    </a>
+                </li>
+                <li>
+                    <a href="#">
+                        <i class="fas fa-users"></i>
+                        <div>Lunch</div>
+                    </a>
+                </li>
+                <li>
+                    <a href="#">
+                        <i class="fas fa-users"></i>
+                       <!--- <i class=" fas fa-solid fa-fork-knife"></i>-->
+                        <div>Dinner</div>
+                    </a>
+                </li>
+                <!-- <li>
+                    <a href="#">
+                        <i class="fas fa-hand-holding-usd"></i>
+                        <div></div>
+                    </a>
+                </li>
+                <li>
+                    <a href="#">
+                        <i class="fas fa-cog"></i>
+                        <div></div>
+                    </a>
+                </li> -->
+                <li>
+                    <a href="contact">
+                        <i class="fas fa-question"></i>
+                        <div>Help</div>
+                    </a>
+                </li>
+                <li>
+                    <a href="userform">
+                        <i class="fas fa-comments"></i>
+                        <div>Newdiet</div>
+                    </a>
+                </li>
+                <li>
+                    <a href="feedbacklog">
+                        <i class="fas fa-comments"></i>
+                        <div>Feedback</div>
+                    </a>
+                </li>
+            </ul>
+        </div>
+        <div class="main">
+            <div class="cards">
+                <div class="card">
+                    <div class="card-content">
+                        <div class="number">{{breakfast}}</div>
+                        <div class="card-name">Breakfast cal</div>
+                    </div>
+                    <div class="egg-fried">
+                        <!-- <i class=""><i class="fas fa-solid fa-egg-fried"></i></i> -->
+                    </div>
+                </div>
+                <div class="card">
+                    <div class="card-content">
+                        <div class="number">{{snack}}</div>
+                        <div class="card-name">Snacks calories </div>
+                    </div>
+                    <div class="cookie">
+                        <i class=""></i>
+                    </div>
+                </div>
+                <div class="card">
+                    <div class="card-content">
+                        <div class="number">{{lunch}}</div>
+                        <div class="card-name">Lunch calories </div>
+                    </div>
+                    <div class="icon-box">
+                        <i class=""></i>
+                    </div>
+                </div>
+                <div class="card">
+                    <div class="card-content">
+                        <div class="number">{{Dinner}}</div>
+                        <div class="card-name">Dinner calories </div>
+                    </div>
+                    <div class="icon-box">
+                        <i class=""></i>
+                    </div>
+                </div>
+            </div>
+            <div class="charts">
+                <div class="chart">
+                    
+                    <h3>{{wedis}}.    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;    {{weival}}</h4>
+                    
+                </div>
+                <div class="chart doughnut-chart"> 
+                    <h3>Symptoms of Relief</h4>
+                    {% for sym in symval%}
+                    <li>{{sym}}</li>
+                    {% endfor %}
+                </div>
+
+            </div>
+            <div class="charts">
+                <div class="chart">
+                    
+                    <table class="table">
+
+                        <thead>
+                          <tr>
+                            <th scope="col">sr.No&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </th>
+                            
+                            <th scope="col">NAME &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </th>
+                            <th scope="col">Diseses &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </th>
+                            <th scope="col">Time &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </th>
+                            
+                            <th scope="col">Button  </th>
+                            
+                          </tr>
+                        </thead>
+                        {% for  dat in dat %}
+                        <tbody>
+                            <tr>
+                                <th scope="row">1</th>
+                                <td>{{dat.usernamenew}}</td>
+                                <td>{{dat.disease}}</td>
+                                <td>{{dat.date}}</td>
+                                <td><a href="{% url 'dashdata' dat.date dat.usernamenew %}" class="button">Success</a></td>
+                                
+                            </tr>
+                        </tbody> 
+                        {% endfor %}
+                          
+                       
+                      </table>
+                    
+                </div>
+                
+
+            </div>
+
+        </div>
+       
+    </div>
+    
+
+
+    <script src="static/js/script.js"></script>
+    <script src="https://cdn.jsdelivr.net/npm/chart.js@3.5.1/dist/chart.min.js"></script>
+    <script src="static/js/chart1.js"></script>
+    <script src="static/js/chart2.js"></script>
+    
+</body>
+
+</html>

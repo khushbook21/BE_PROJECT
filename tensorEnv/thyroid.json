@@ -1,0 +1,15 @@
+{
+  "thyroid": [
+    {
+      "food to eat": ["There are plenty of healthy food options for people with hypothyroidism, including eggs, meat, fish, most fruits and vegetables, gluten-free grains and seeds, all dairy products, and non-caffeinated beverages Eggs: whole eggs are best, as much of their iodine and selenium are found in the yolk, while the whites are full of protein\nMeat: all meats, including lamb, beef, chicken, etc.\nFish: all seafood, including salmon, tuna, halibut, shrimp, etc.\nVegetables: all vegetables — cruciferous vegetables are fine to eat in moderate amounts, especially when cooked\nFruits: all other fruits, including berries, bananas, oranges, tomatoes, etc.\nGluten-free grains and seeds: rice, buckwheat, quinoa, chia seeds, and flax seeds\nDairy: all dairy products, including milk, cheese, yogurt, etc.Beverages: water and other non-caffeinated beverages"],
+      "food to not eat":["fruit not to eat  :- peaches, pears, and strawberries.vegetables not to eat :- Brussels sprouts, cabbage, cauliflower, kale, turnips, and bok choy,\n nonveg not to eat :- lamb, beef, chicken strictly avoided"],
+      "general tips":["Eating a healthy, well-balanced diet rich in fruits and vegetables, whole grains, and lean protein can help you manage your weight. Limit processed foods and those high in fat and sugar. Proper treatment can also help you manage your weight and other symptoms of hypothyroidism. Take an adequate amount of sleep and avoid stress as they lead to overeating and unhealthy food choices.\n -Limit your intake of processed food and drink lots of water. -It is important to consume iodine when trying to lose weight,\n but restrict processed salt intake and opt for natural sources of iodine."],
+      "fruitsnot":["peaches", "pears","strawberries"],
+      "vegnot":["Brussels sprouts","cabbage","cauliflower","kale","bok choy"],
+      "nonvegnot":["Red meat contains large amounts of saturated fat and cholesterol which are harmful to a Thyroid patient. They also increase body temperatures to abnormal levels and you don't want problems to pile up on the health front.not.Chicken. A grilled chicken breast isn't just a great source of lean protein. It also provides a punch of zinc, a nutrient your thyroid needs to produce enough hormones for your body. In fact, when we're low in zinc, we can experience some severe symptoms of hypothyroidism like alopecia or hair loss"]
+
+    }
+  ]
+}
+
+
